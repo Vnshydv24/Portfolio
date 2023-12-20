@@ -76,12 +76,6 @@ const Experience = () => {
               <article className='experience__details'>
                 <BsFillCheckCircleFill className='experience__details-icon' />
                 <div>
-                  <h4> PHP </h4>
-                </div>
-              </article>
-              <article className='experience__details'>
-                <BsFillCheckCircleFill className='experience__details-icon' />
-                <div>
                   <h4> Python </h4>
                 </div>
               </article>
@@ -132,13 +126,7 @@ const Experience = () => {
 
           <div className="experience__frontend">
             <h3> Python Libraries </h3>
-            <div className='experience__content'> 
-              <article className='experience__details'>
-               <BsFillCheckCircleFill className='experience__details-icon' /> 
-                <div>
-                  <h4> Tkinter </h4>
-                </div>
-              </article>
+            <div className='experience__content'>
               <article className='experience__details'>
                 <BsFillCheckCircleFill className='experience__details-icon' />
                 <div>

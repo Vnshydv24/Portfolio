@@ -1,7 +1,7 @@
 import React from 'react'
 import './header.css'
 import CTA from './CTA'
-import ME from '../../assets/me.png'
+import ME from '../../assets/me.jpeg'
 import HeaderSocials from './HeaderSocials'
 import Typed from 'typed.js';
 
@@ -27,13 +27,18 @@ const Header = () => {
       <div className="container header__container">
         
         <h5> Hello I'm </h5>
-        <h1> Harsh Negi </h1>
+        <h1> Vansh Yadav </h1>
         <span ref={el} />
         <CTA />
         <HeaderSocials />
         <div className="me">
           <img src = {ME} alt="" /> 
         </div>
+        <br />
+        <br />
+        <br />
+        <br />
+
 
         <a href = "#contact" className='scroll_down'> Scroll Down</a>
       </div>

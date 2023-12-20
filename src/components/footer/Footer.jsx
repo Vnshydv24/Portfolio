@@ -7,7 +7,7 @@ import {ImTwitter} from 'react-icons/im'
 const Footer = () => {
   return (
     <footer>
-      <a href="/" className='footer_logo'> Harsh Negi </a>
+      <a href="/" className='footer_logo'> Vansh Yadav </a>
       <br />
       <ul className='permalinks'>
         {/* eslint-disable-next-line */}
@@ -26,7 +26,7 @@ const Footer = () => {
 
       <div className="footer__copyright">
         <snall>
-          &copy; 2023 Harsh Negi. All Rights Reserved.
+          &copy; 2023 Vansh Yadav. All Rights Reserved.
         </snall>
       </div>
     </footer>

@@ -8,6 +8,8 @@ import {BiHomeAlt} from 'react-icons/bi'
 const About = () => {
   return (
     <section id='about'> <br/>
+    <br />
+    <br />
       <h5> Get To Know </h5>
       <h2> About Me </h2>
 
@@ -35,7 +37,7 @@ const About = () => {
               <article className='about__card'>
                 <BiHomeAlt className='about__icon' />
                 <h5> Residence </h5>
-                <small> Gurgaon, Haryana </small>
+                <small> Haridwar,Uttarakhand </small>
                 </article>
           </div>
 
